@@ -1,5 +1,5 @@
 # vmg1312py
-Zyxel VMG1312-B30B Keygen
+Zyxel VMG1312-B30B Keygen \
 Default ESSID is Internet_XX
 
 Usage: python3 vmg1312.py S150Y18062515
